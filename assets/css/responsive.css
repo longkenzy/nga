@@ -10,13 +10,13 @@
 }
 
 /* Tablet & mobile */
-@media (min-width: 63.9375em) {
+@media (max-width: 63.9375em) {
     .btn {
-        padding: 5px 16px;
+        padding: 15px 16px;
     }
 
     #nav .subnav a {
-        padding:5px 12px;
+        padding: 5px 12px;
     }
 
     .contact-form .form-control {
